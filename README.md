@@ -1,5 +1,7 @@
 # hubot-dokku-hook
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/lgaticaq/hubot-dokku-hook.svg)](https://greenkeeper.io/)
+
 [![npm version](https://img.shields.io/npm/v/hubot-dokku-hook.svg?style=flat-square)](https://www.npmjs.com/package/hubot-dokku-hook)
 [![npm downloads](https://img.shields.io/npm/dm/hubot-dokku-hook.svg?style=flat-square)](https://www.npmjs.com/package/hubot-dokku-hook)
 [![Build Status](https://img.shields.io/travis/lgaticaq/hubot-dokku-hook.svg?style=flat-square)](https://dokku.org/lgaticaq/hubot-dokku-hook)
